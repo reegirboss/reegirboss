@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @reegirboss
+- 👋 Hi, I’m @Reegir
 - 👀 I’m interested in ...programming 
 - 🌱 I’m currently learning ...
 coding and programming 
